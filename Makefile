@@ -17,7 +17,7 @@ HEADER_FILES := \
 	VERSION \
 	LICENSE
 
-PLUGIN_TARGET := zsh-autosuggestions.zsh
+PLUGIN_TARGET := zsh-autosuggestions.plugin.zsh
 
 all: $(PLUGIN_TARGET)
 
